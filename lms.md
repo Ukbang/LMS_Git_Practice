@@ -7,3 +7,5 @@ A: Nice to meet you and you?
 B: Yes, I'm good.
 
 A: Good Bye.
+
+B: Bye!
