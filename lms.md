@@ -9,3 +9,7 @@ B: Yes, I'm good.
 A: Good Bye.
 
 B: Bye!
+
+A: Okay!
+
+B: save
